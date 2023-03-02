@@ -1,4 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-24T15:01:28-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ak4m3x</title><subtitle>Artículos sobre ciberseguridad, investigaciones</subtitle><author><name>El Bunker Hacker</name></author><entry><title type="html">Clon del reloj hacker DSTIKE</title><link href="http://localhost:4000/Dstrike/" rel="alternate" type="text/html" title="Clon del reloj hacker DSTIKE" /><published>2022-06-08T00:00:00-03:00</published><updated>2022-06-08T00:00:00-03:00</updated><id>http://localhost:4000/Dstrike</id><content type="html" xml:base="http://localhost:4000/Dstrike/">&lt;center&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-02T20:01:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ak4m3x</title><subtitle>Artículos sobre ciberseguridad, investigaciones</subtitle><author><name>El Bunker Hacker</name></author><entry><title type="html">Antena J POLE</title><link href="http://localhost:4000/Antena-jpole/" rel="alternate" type="text/html" title="Antena J POLE" /><published>2023-03-02T00:00:00-03:00</published><updated>2023-03-02T00:00:00-03:00</updated><id>http://localhost:4000/Antena-jpole</id><content type="html" xml:base="http://localhost:4000/Antena-jpole/">&lt;center&gt;
+Antena J POLE 
+&lt;/center&gt;
+&lt;p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;En esta oportunidad vamos a hacer una antena Bi-Banda para VHF - UHF 70cm - 2m&lt;/p&gt;
+
+&lt;p&gt;que podremos usar en un equipo portátil tipo Handy o Radio Base&lt;/p&gt;
+
+&lt;p&gt;Esta antena no la vamos a calibrar a una frecuencia específica, sino que la vamos a hacer para tratar de cubrir un el mayor espectro en la banda de 145/440 MHz 70cm/2m&lt;/p&gt;
+
+&lt;p&gt;Usaremos lo siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 ficha BNC Hembra&lt;/li&gt;
+  &lt;li&gt;70 cm Aproximadamente de alambre de cobra&lt;/li&gt;
+  &lt;li&gt;1 tuvo de PVC de  50 cm&lt;/li&gt;
+  &lt;li&gt;2 Tapone de PVC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;las medidas serian las siguientes:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot; width=&quot;100%&quot;&gt;
+    &lt;img width=&quot;50%&quot; src=&quot;/assets/images/antena_jpole/2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Del alambre de cobre cortaremos una sección de 48.84 cm y otro de 16.20 cm.&lt;/p&gt;
+
+&lt;p&gt;La sección de 48.84 cm la soldaremos al pin de la ficha BNC.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La sección de 16.20 cm en mi caso como uso una ficha para chasis con rosca, la soldaré la arandela del terminal masa.&lt;/p&gt;
+
+&lt;p&gt;Como el alambre de cobre tiene un grosor de 1mm y es poca su rigidez para mantenerse erguido y separado 1.52cm a lo largo de codo el conductor voy a diseñar unos separadores en 3D.&lt;/p&gt;
+
+&lt;p&gt;Estos los imprimiré en PLA&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diseñamos la pieza para que tenga la separación de 1.52 cm&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enlace de descarga para el STL &lt;a href=&quot;/assets/images/antena_jpole/separador.STL&quot; download=&quot;&quot;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;y este mantiene centrado el alambre en todo su largo&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot; width=&quot;100%&quot;&gt;
+    &lt;img width=&quot;50%&quot; src=&quot;/assets/images/antena_jpole/8.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Enlace de descarga para el STL &lt;a href=&quot;/assets/images/antena_jpole/centro.STL&quot; download=&quot;&quot;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En uno de los tapones de PVC aremos un agujero con una mecha de 9 mm centrada.&lt;/p&gt;
+
+&lt;p&gt;Un truco para centrar saber el centro de una circunferencia es usar una escuadra a 45 grados  y una  a 90 grados.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot; width=&quot;100%&quot;&gt;
+    &lt;img width=&quot;50%&quot; src=&quot;/assets/images/antena_jpole/9.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;y le trazamos varias líneas moviendo la tapa&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;colocamos los soportes impresos&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot; width=&quot;100%&quot;&gt;
+    &lt;img width=&quot;50%&quot; src=&quot;/assets/images/antena_jpole/13.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Y así quedaría armada …&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;hacemos una pequeña prueba con uno de nuestros equipos&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/16.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;en este equipo tipo handy, cuando tenemos señal TX nos indica con un led verde&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/antena_jpole/17.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Espero que les sea útil.&lt;/p&gt;
+
+&lt;p&gt;happy hacking&lt;/p&gt;
+
+&lt;p&gt;ak4m3_x&lt;/p&gt;
+
+&lt;p&gt;EOF&lt;/p&gt;</content><author><name>El Bunker Hacker</name></author><category term="UHF" /><category term="VHF" /><category term="RF" /><category term="Radio" /><summary type="html">Como hacer una antena Bi-Banda para VHF - UHF 70cm - 2m.</summary></entry><entry><title type="html">Clon del reloj hacker DSTIKE</title><link href="http://localhost:4000/Dstrike/" rel="alternate" type="text/html" title="Clon del reloj hacker DSTIKE" /><published>2022-06-08T00:00:00-03:00</published><updated>2022-06-08T00:00:00-03:00</updated><id>http://localhost:4000/Dstrike</id><content type="html" xml:base="http://localhost:4000/Dstrike/">&lt;center&gt;
 DSTIKE DEAUTHER WATCH CLONE
 &lt;/center&gt;
 
