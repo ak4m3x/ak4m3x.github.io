@@ -53,7 +53,7 @@ Del alambre de cobre cortaremos una sección de 48.84 cm y otro de 16.20 cm.
 
 La sección de 48.84 cm la soldaremos al pin de la ficha BNC.
 
-![](/assets/images/antena_jpole/3.png)
+![](/assets/images/antena_jpole/3.jpg)
 
 La sección de 16.20 cm en mi caso como uso una ficha para chasis con rosca, la soldaré la arandela del terminal masa.
 
